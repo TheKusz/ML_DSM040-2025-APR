@@ -1,0 +1,24 @@
+This coursework is worth 100 marks, amounting to 50% of the final course mark.
+
+For coursework 2 you will be asked to train and evaluate at least three different model classes on a dataset. You must choose both the model classes and the dataset you wish to work on. Note: at least ONE of the three must be a model class see from topic 5 (unsupervised learning) or later. You will be asked to provide an analysis of your results, of the relative strengths, weaknesses, and peculiarities of each individual model. Additional marks can be gained by expanding this coursework in an autonomous manner, as a work of research.
+
+You are free to use the sklearn library.
+Notes:
+
+Remember to comment all of your code (see here for tips: https://stackabuse.com/commenting-python-code/). You can also make use of Jupyter Markdown, where appropriate, to improve the layout of your code and documentation.
+Please add docstrings to all of your functions (so that users can get information on inputs/outputs and what each function does by typing SHIFT+TAB over the function name. For more detail on python docstrings, see here: https://numpydoc.readthedocs.io/en/latest/format.html)
+When a question allows a free-form answer (e.g. what do you observe?), create a new markdown cell below and answer the question in the notebook. 
+Always save your notebook when you are done (this is not automatic)!
+Upload your completed notebook using the VLE
+Plagiarism: please make sure that the material you submit has been created by you. Any sources you use for code should be properly referenced. Your code will be checked for plagiarism using appropriate software.
+
+Marking
+The grades in this coursework are allocated approximately as follows:
+
+mark
+1. Dataset	7
+2. Models	18
+3. Analysis	25
+4. Self-directed research	40
+Document quality: language, comments & code	10
+Total available	100

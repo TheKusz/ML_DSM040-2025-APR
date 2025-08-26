@@ -1,0 +1,54 @@
+KSH:
+https://www.ksh.hu/stadat_files/gsz/hu/gsz0018.html
+https://www.ksh.hu/stadat_files/gsz/hu/gsz0004.html
+
+SME performance review: 
+https://single-market-economy.ec.europa.eu/smes/sme-strategy-and-sme-friendly-business-conditions/sme-performance-review_en
+
+---------------------------------------------
+Resources that can be added for later analysis:
+
+https://www.ksh.hu/s/kiadvanyok/az-infokommunikacios-szektor-helyzete/
+https://www.sciencedirect.com/science/article/pii/S2666789423000387
+https://ojs.lib.unideb.hu/IJEMS/article/download/11456/10711/24624
+https://ojs.lib.unideb.hu/IJEMS/article/download/10923/9695/21843
+https://www.mnb.hu/letoltes/felu-gyelo-bizottsa-gi-jelente-s-2023-hun-0627-vegleges.pdf
+
+EU:
+https://ec.europa.eu/docsroom/documents/38662/attachments/14/translations/en/renditions/native
+https://digital-strategy.ec.europa.eu/en/policies/desi
+https://single-market-economy.ec.europa.eu/smes/sme-strategy-and-sme-friendly-business-conditions/sme-performance-review_en
+https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2024_fa521246-en.html
+
+### Survey  
+To gather primary data on the organizational development needs and attitudes of Hungarian SMEs, we designed and deployed a targeted survey. The questionnaire assesses both the current status and the willingness of these companies to engage in various organizational development initiatives.
+
+The survey includes the following key questions:
+
+1. **To what extent do you have visibility into how efficiently your organization/business operates (in terms of processes, collaboration, and organizational culture)?**  
+   (Scale: 1 - Not at all, to 5 - Fully understand)
+
+2. **What challenges are you currently facing within your organization?**  
+   (Multiple-choice; options include communication problems, lack of process transparency, tensions from growth, key personnel overload, employee skill gaps, leadership generational change, financial difficulties, organizational growth challenges, or no challenges.)
+
+3. **Have you ever used organizational development services (e.g., organizational diagnostics, consultancy, coaching, HR audits, training)?**  
+   (Options: Yes, regularly; Yes, occasionally; No, but I have considered it; No, and do not plan to; I am not aware of these services.)
+
+4. **How open would you be to trying an automated, digital organizational diagnostic tool that provides a fast, affordable, and immediate overview of your organization's condition?**  
+   (Scale: 1 - Not open at all, to 5 - Very open)
+
+5. **What question or challenge would you like to address or solve through organizational development?**  
+   (Open-ended)
+
+6. **What amount would you be willing to pay for a product that offers a solution to your organizational development needs?**  
+   (Options range from 5,000 to over 250,000 HUF, or not willing to pay.)
+
+7. **What is the size of your organization?**  
+   (Options: 1–9 employees, 10–49, 50–99, 100–250)
+
+8. **In which sector does your organization primarily operate?**  
+   (Options include manufacturing/production, services, trade (wholesale or retail), mixed (both manufacturing and services), or other.)
+
+The survey was distributed to SME leaders and decision-makers primarily through social media platforms and professional groups, targeting respondents knowledgeable about their company's current organizational status and development needs.
+
+These survey responses complement the official statistical data, providing valuable insights into the real challenges, openness, and priorities of Hungarian SMEs regarding organizational development.
